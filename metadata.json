@@ -1,0 +1,6 @@
+{
+  "name": "Radyo Türk",
+  "description": "Canlı Türk Radyoları - Popüler ulusal ve yerel radyo istasyonları, canlı yayın oynatıcısı, uyku zamanlayıcısı ve favoriler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

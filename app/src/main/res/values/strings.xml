@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Radyo Türk</string>
+    <string name="radio_notification_channel_name">Radyo Yayını</string>
+    <string name="radio_notification_channel_desc">Canlı radyo yayını bildirimleri ve kontrolleri</string>
+    <string name="action_play">Oynat</string>
+    <string name="action_pause">Duraklat</string>
+    <string name="action_stop">Durdur</string>
+</resources>
